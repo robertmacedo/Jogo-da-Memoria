@@ -31,7 +31,7 @@ Verso_da_Carta = pygame.image.load("Imagens/Verso.png")
 
 #ÁUDIO
 '''CONFIGURAÇÕES DE SOM:'''
-Música_Fundo = mixer.music.load('Sons/retro-90s-arcade-machine.mp3')
+Música_de_Fundo = mixer.music.load('Sons/retro-90s-arcade-machine.mp3')
 Som_Acerto = mixer.Sound("Sons/arcade-game-complete-or-approved-mission-205.wav")
 Som_Vitória = mixer.Sound("Sons/win.mp3")
 mixer.music.set_volume(0.10)
