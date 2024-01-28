@@ -1,2 +1,2 @@
 # Jogo-da-Memoria
-O Jogo da Memória é um clássico jogo por peças que fazem as vezes figura em um dos lados. Cada figura se repete em duas diferentes. Para começar o jogo, como são postas com as figuras des para, baixo para não ser vistas. Cada participante deve, na sua vez,virar duas peças e todos como vejam.
+O Jogo da Memória é um clássico jogo formado por peças que apresentam uma figura em um dos lados. Cada figura se repete em duas peças diferentes. Para começar o jogo, as peças são postas com as figuras voltadas para baixo, para que não possam ser vistas. Cada participante deve, na sua vez, virar duas peças e deixar que todos as vejam.
